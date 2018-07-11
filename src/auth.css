@@ -1,0 +1,110 @@
+
+#nav{
+  width: 100%;
+}
+.google{
+  width:347px;;
+  padding:10px;
+  font-size: 20px;
+  color:#FFFFFF;
+  background: linear-gradient(to right,#FF966F,#FF5931);
+margin-bottom: 10px;
+  border-radius: 0;
+}
+#submit{
+  width:347px;;
+  padding:10px;
+  font-size: 20px;
+  color:#FFFFFF;
+margin-bottom: 10px;
+
+  border-radius: 0;
+}
+.facebook{
+  width:347px;;
+  padding:10px;
+  font-size: 20px;
+  color:#FFFFFF;
+  background: linear-gradient(to right,#4090FF , #2ED5FF);
+margin-bottom: 10px;
+  border-radius: 0;
+}
+.row{
+  margin:30px;
+}
+#about{
+  margin:7px;
+  padding:auto;
+}
+#contact{
+  margin:7px;
+  padding:auto;
+}
+#faq{
+  margin:7px;
+  padding:auto;
+}
+#brand{
+  float:left;
+}
+.or{
+  border:1px solid gray;
+  background-color: white;
+  border-radius: 50% ;
+  padding:5px;
+  margin:4px;
+  margin-bottom: 5px;
+  color:black;
+box-shadow: 3px 0px white ;
+}
+.form{
+  margin-top: 5px;
+
+}
+#form1{
+  float: right;
+}
+.or1:after,
+.or1:before{
+    content:"\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0";
+    text-decoration:line-through;
+    color:gray;
+}
+input[type="email"],input[type='password'],input[type='text'],input[type='number']  {
+
+  background-color : #FFFFC6;
+  width:347px;
+margin:auto;
+
+
+.buttomBox,span{
+  border:1px solid black;
+}
+}
+#box{
+  width:430px;
+  padding:auto;
+  border: 1px solid #EFEFEF;
+  box-shadow: 0px 2px 5px #000000;
+
+}
+.img-responsive{
+  width:auto;
+  float:left;
+  padding: inherit;
+  margin-left: auto;
+}
+.condt{
+  margin-top: 15px;
+  float: right;
+  font-size: 20px;
+}
+.imgMain{
+  width: 100%;
+  height:auto;
+  float: left;
+  margin-left: inherit;
+}
+.hide{
+  display: none;
+}
