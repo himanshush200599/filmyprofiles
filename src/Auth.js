@@ -272,13 +272,13 @@ firebase.initializeApp(config);
         </div>
     <div className="form-group">
 
-      <input className="form-control mx-sm-2 mr-sm-2" ref='email' id='email' type="email" placeholder="Username" aria-label="Search" />
+      <input className="form-control mx-sm-2 mr-sm-2" ref='email' id='email1' type="email" placeholder="Username" aria-label="Search" />
 
 
     </div>
     <div className="form-group">
 
-    <input className="form-control mr-sm-2" ref = 'password' id='pass'  type="password" placeholder="Password" aria-label="Search" />
+    <input className="form-control mr-sm-2" ref = 'password' id='pass1'  type="password" placeholder="Password" aria-label="Search" />
     </div>
 <div>
     <button className="btn btn-primary btn-lg" id='login' type="submit" onClick={this.login}><strong>Login</strong></button>

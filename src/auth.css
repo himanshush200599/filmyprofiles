@@ -227,9 +227,10 @@ border-radius: 0;
   margin-top: 10px;
   width: 45px;
   float: left;
+  
 }
 #about{
-  margin:3px;
+  margin:2px;
   font-weight: bolder;
   font-size: 14px;
 
@@ -244,21 +245,26 @@ border-radius: 0;
 #foot{
 
   float: right;
+  white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+
+
 }
 #contact{
-  margin:3px;
+  margin:2px;
 font-weight: bolder;
   font-size: 14px;
 
 }
 #faq{
-  margin:3px;
+  margin:2px;
 font-weight: bolder;
   font-size: 14px;
 
 }
 #terms{
-  margin:3px;
+  margin:2px;
 font-weight: bolder;
   font-size: 14px;
 
